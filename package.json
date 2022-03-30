@@ -1,0 +1,16 @@
+{
+  "name": "use-f",
+  "version": "1.0.1",
+  "description": "useF, an improvement on React useEffect",
+  "main": "index.js",
+  "author": "freshman_dev",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "useEffect"
+  ]
+}
